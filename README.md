@@ -1,4 +1,12 @@
 ## Lahman Baseball Database Exercise
+
+I worked on this exercise as a team with Rainwater Morehead and Sebastian Bui. I wrote the SQL scripts for the following four questions and helped review the team's work for the other questions. -- Lewis Garvin
+- #3
+- #6
+- #9
+- #13
+
+### Data
 - this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
 - you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
 
