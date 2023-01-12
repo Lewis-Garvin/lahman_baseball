@@ -1,10 +1,10 @@
 ## Lahman Baseball Database Exercise
 
-I worked on this exercise as a team with Rainwater Morehead and Sebastian Bui. I wrote the SQL scripts for the following four questions and helped review the team's work for the other questions. -- Lewis Garvin
-- #3 https://github.com/Lewis-Garvin/lahman_baseball/blob/main/scripts/question_3.sql
-- #6 https://github.com/Lewis-Garvin/lahman_baseball/blob/main/scripts/question_6.sql
-- #9 https://github.com/Lewis-Garvin/lahman_baseball/blob/main/scripts/question_9.sql
-- #13 https://github.com/Lewis-Garvin/lahman_baseball/blob/main/scripts/question_13.sql
+I worked on this exercise as a team with Rainwater Morehead and Sebastian Bui. I wrote the SQL scripts for questions #3, 6, 9 and 13, and I helped review the team's work for the other questions. -- Lewis Garvin
+- [question_3.sql](https://github.com/Lewis-Garvin/lahman_baseball/blob/main/scripts/question_3.sql)
+- [question_6.sql](https://github.com/Lewis-Garvin/lahman_baseball/blob/main/scripts/question_6.sql)
+- [question_9.sql](https://github.com/Lewis-Garvin/lahman_baseball/blob/main/scripts/question_9.sql)
+- [question_13.sql](https://github.com/Lewis-Garvin/lahman_baseball/blob/main/scripts/question_13.sql)
 
 ### Data
 - this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
